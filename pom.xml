@@ -12,7 +12,7 @@
 		<neo4j.version>2.1.8</neo4j.version>
 		<blueprints.version>2.6.0</blueprints.version>
 		<sesame.version>2.7.10</sesame.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jersey.version>1.9</jersey.version>
 		<jackson.version>1.9.13</jackson.version>
 		<owlapi.version>4.0.0</owlapi.version>
